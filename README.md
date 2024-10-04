@@ -1,5 +1,5 @@
-### ENTER YOUR NAME: KARTHIKEYAN R
-### ENTER YOUR REGISTER NO.212222240046
+### ENTER YOUR NAME: PRAVEEN CK
+### ENTER YOUR REGISTER NO.212222243003
 ### DATE:03/10/24
 <H3>EX. NO.3</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
